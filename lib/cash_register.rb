@@ -35,8 +35,6 @@ class CashRegister
   end 
   
   
-  
-  
 end 
 
 
